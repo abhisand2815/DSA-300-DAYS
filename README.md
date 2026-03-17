@@ -12,12 +12,12 @@ This repository reflects my commitment to continuous improvement and becoming a 
 |-----|--------|------|------|
 | 1 | Merge sorted Array | Arrays | [View Code](./Day-01/) |
 
-## 📅 Daily Goal
+## Daily Goal
 - Solve 1–2 problems  
 - Understand patterns  
 - Stay consistent  
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Language: Java   
 - Platform: LeetCode  
 
