@@ -17,14 +17,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 - Understand patterns  
 - Stay consistent  
 
----
-
 ## 🛠️ Tech Stack
 - Language: Java   
 - Platform: LeetCode  
-
----
-
-
 
 If you like this journey, feel free to follow!
