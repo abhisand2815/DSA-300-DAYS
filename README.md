@@ -1,2 +1,31 @@
-# DSA-300-DAYS
-My 300 Days DSA Challenge using LeetCode
+# 300 Days DSA Challenge
+
+## About
+Welcome to my 300 Days of DSA journey!
+Through this challenge, I aim to strengthen my understanding of Data Structures and Algorithms by solving problems daily on LeetCode and documenting my progress on GitHub.
+Each solution includes my approach, key learnings, and complexity analysis. The focus is not just on solving problems, but on identifying patterns, optimizing solutions, and building long-term consistency.
+This repository reflects my commitment to continuous improvement and becoming a better problem solver every day.
+
+## Progress Tracker
+
+| Day | Problem | Topic | Link |
+|-----|--------|------|------|
+| 1 | Two Sum | Arrays | [View Code](./Day-01/) |
+| 2 | Maximum Subarray | Arrays | [View Code](./Day-02/) |
+
+## 📅 Daily Goal
+- Solve 1–2 problems  
+- Understand patterns  
+- Stay consistent  
+
+---
+
+## 🛠️ Tech Stack
+- Language: Java   
+- Platform: LeetCode  
+
+---
+
+
+
+If you like this journey, feel free to follow!
