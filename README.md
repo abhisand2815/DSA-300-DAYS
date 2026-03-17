@@ -10,8 +10,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 
 | Day | Problem | Topic | Link |
 |-----|--------|------|------|
-| 1 | Two Sum | Arrays | [View Code](./Day-01/) |
-| 2 | Maximum Subarray | Arrays | [View Code](./Day-02/) |
+| 1 | Merge sorted Array | Arrays | [View Code](./Day-01/) |
 
 ## 📅 Daily Goal
 - Solve 1–2 problems  
