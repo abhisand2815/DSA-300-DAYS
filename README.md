@@ -11,6 +11,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | Day | Problem | Topic | Link |
 |-----|--------|------|------|
 | 1 | Merge sorted Array | Arrays | [View Code](./Day-01/) |
+| 2 | Removing element from Array | Arrays | [View Code](./Day-02/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
