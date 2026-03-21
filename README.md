@@ -13,7 +13,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 1 | Merge sorted Array | Arrays | [View Code](./Day-01/) |
 | 2 | Removing element from Array | Arrays | [View Code](./Day-02/) |
 | 3 | Remove Duplicates from Sorted Array | Arrays | [View Code](./Day-03/) |
-| 3 | Remove Duplicates from Sorted Array - II | Arrays | [View Code](./Day-04/) |
+| 4 | Remove Duplicates from Sorted Array - II | Arrays | [View Code](./Day-04/) |
+| 5 | Majority Elements | Arrays | [View Code](./Day-05/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
