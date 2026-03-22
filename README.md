@@ -15,6 +15,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 3 | Remove Duplicates from Sorted Array | Arrays | [View Code](./Day-03/) |
 | 4 | Remove Duplicates from Sorted Array - II | Arrays | [View Code](./Day-04/) |
 | 5 | Majority Elements | Arrays | [View Code](./Day-05/) |
+| 6 | Rotate Array | Arrays | [View Code](./Day-06/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
