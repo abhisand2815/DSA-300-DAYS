@@ -17,6 +17,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 5 | Majority Elements | Arrays | [View Code](./Day-05/) |
 | 6 | Rotate Array | Arrays | [View Code](./Day-06/) |
 | 7 | Best Time to Buy and Sell Stock | Arrays | [View Code](./Day-07/) |
+| 8 | Best Time to Buy and Sell Stock II | Arrays | [View Code](./Day-08/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
