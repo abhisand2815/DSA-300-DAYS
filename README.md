@@ -18,6 +18,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 6 | Rotate Array | Arrays | [View Code](./Day-06/) |
 | 7 | Best Time to Buy and Sell Stock | Arrays | [View Code](./Day-07/) |
 | 8 | Best Time to Buy and Sell Stock II | Arrays | [View Code](./Day-08/) |
+| 9 | Jump Game | Arrays | [View Code](./Day-09/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
