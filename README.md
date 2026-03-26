@@ -19,6 +19,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 7 | Best Time to Buy and Sell Stock | Arrays | [View Code](./Day-07/) |
 | 8 | Best Time to Buy and Sell Stock II | Arrays | [View Code](./Day-08/) |
 | 9 | Jump Game | Arrays | [View Code](./Day-09/) |
+| 10 | Jump Game II | Arrays | [View Code](./Day-10/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
