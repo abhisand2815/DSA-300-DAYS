@@ -21,6 +21,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 9 | Jump Game | Arrays | [View Code](./Day-09/) |
 | 10 | Jump Game II | Arrays | [View Code](./Day-10/) |
 | 11 | H-Index | Arrays | [View Code](./Day-11/) |
+| 12 | Insert Delete GetRandom O(1) | Arrays and Hash Table | [View Code](./Day-12/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
