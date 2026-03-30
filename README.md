@@ -10,17 +10,17 @@ This repository reflects my commitment to continuous improvement and becoming a 
 
 | Day | Problem | Topic | Link |
 |-----|--------|------|------|
-| 1 | Merge sorted Array | Arrays | [View Code](./Day-01/) |
-| 2 | Removing element from Array | Arrays | [View Code](./Day-02/) |
+| 1 | Merge sorted Array | Arrays and pointers | [View Code](./Day-01/) |
+| 2 | Removing element from Array | Arrays and pointers | [View Code](./Day-02/) |
 | 3 | Remove Duplicates from Sorted Array | Arrays | [View Code](./Day-03/) |
 | 4 | Remove Duplicates from Sorted Array - II | Arrays | [View Code](./Day-04/) |
-| 5 | Majority Elements | Arrays | [View Code](./Day-05/) |
-| 6 | Rotate Array | Arrays | [View Code](./Day-06/) |
-| 7 | Best Time to Buy and Sell Stock | Arrays | [View Code](./Day-07/) |
-| 8 | Best Time to Buy and Sell Stock II | Arrays | [View Code](./Day-08/) |
-| 9 | Jump Game | Arrays | [View Code](./Day-09/) |
-| 10 | Jump Game II | Arrays | [View Code](./Day-10/) |
-| 11 | H-Index | Arrays | [View Code](./Day-11/) |
+| 5 | Majority Elements | Arrays and hash | [View Code](./Day-05/) |
+| 6 | Rotate Array | Arrays and Math | [View Code](./Day-06/) |
+| 7 | Best Time to Buy and Sell Stock | Arrays and dynamic | [View Code](./Day-07/) |
+| 8 | Best Time to Buy and Sell Stock II | Arrays and dynamic | [View Code](./Day-08/) |
+| 9 | Jump Game | Arrays and greedy | [View Code](./Day-09/) |
+| 10 | Jump Game II | Arrays and dynamic | [View Code](./Day-10/) |
+| 11 | H-Index | Arrays and sorting | [View Code](./Day-11/) |
 | 12 | Insert Delete GetRandom O(1) | Arrays and Hash Table | [View Code](./Day-12/) |
 | 13 | Product of Array Except Self | Arrays and prefix Sum | [View Code](./Day-13/) |
 | 14 | Gas Station | Arrays and Greedy | [View Code](./Day-14/) |
