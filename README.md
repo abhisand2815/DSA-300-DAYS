@@ -24,6 +24,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 12 | Insert Delete GetRandom O(1) | Arrays and Hash Table | [View Code](./Day-12/) |
 | 13 | Product of Array Except Self | Arrays and prefix Sum | [View Code](./Day-13/) |
 | 14 | Gas Station | Arrays and Greedy | [View Code](./Day-14/) |
+| 15 | Candy Problem | Arrays and Greedy | [View Code](./Day-15/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
