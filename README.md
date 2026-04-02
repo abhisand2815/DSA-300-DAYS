@@ -26,6 +26,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 14 | Gas Station | Arrays and Greedy | [View Code](./Day-14/) |
 | 15 | Candy Problem | Arrays and Greedy | [View Code](./Day-15/) |
 | 16 | Trapping Rain water | Arrays and Stack | [View Code](./Day-16/) |
+| 17 | Roman to Integer | String and Hash Table | [View Code](./Day-17/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
