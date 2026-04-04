@@ -28,6 +28,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 16 | Trapping Rain water | Arrays and Stack | [View Code](./Day-16/) |
 | 17 | Roman to Integer | String and Hash Table | [View Code](./Day-17/) |
 | 18 | Integer to Roman | String and Hash Table | [View Code](./Day-18/) |
+| 19 | Length of Last Word | String | [View Code](./Day-19/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
