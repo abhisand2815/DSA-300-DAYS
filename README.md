@@ -29,6 +29,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 17 | Roman to Integer | String and Hash Table | [View Code](./Day-17/) |
 | 18 | Integer to Roman | String and Hash Table | [View Code](./Day-18/) |
 | 19 | Length of Last Word | String | [View Code](./Day-19/) |
+| 20 | Longest common prefix | String and array | [View Code](./Day-20/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
