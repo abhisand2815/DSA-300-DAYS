@@ -30,6 +30,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 18 | Integer to Roman | String and Hash Table | [View Code](./Day-18/) |
 | 19 | Length of Last Word | String | [View Code](./Day-19/) |
 | 20 | Longest common prefix | String and array | [View Code](./Day-20/) |
+| 21 | Reverse Wrods in a String | String and two-pointers | [View Code](./Day-21/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
