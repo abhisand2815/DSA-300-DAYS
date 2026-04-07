@@ -31,6 +31,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 19 | Length of Last Word | String | [View Code](./Day-19/) |
 | 20 | Longest common prefix | String and array | [View Code](./Day-20/) |
 | 21 | Reverse Wrods in a String | String and two-pointers | [View Code](./Day-21/) |
+| 22 | Zigzac Conversion | String | [View Code](./Day-22/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
