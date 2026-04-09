@@ -33,6 +33,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 21 | Reverse Wrods in a String | String and two-pointers | [View Code](./Day-21/) |
 | 22 | Zigzac Conversion | String | [View Code](./Day-22/) |
 | 23 | Index of the First Occurrence | String and two Pointer | [View Code](./Day-23/) |
+| 24 | Text Justification | String and Simulation | [View Code](./Day-24/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
