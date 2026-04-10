@@ -34,6 +34,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 22 | Zigzac Conversion | String | [View Code](./Day-22/) |
 | 23 | Index of the First Occurrence | String and two Pointer | [View Code](./Day-23/) |
 | 24 | Text Justification | String and Simulation | [View Code](./Day-24/) |
+| 25 | Valid Palindrome | String and Two pointer | [View Code](./Day-25/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
