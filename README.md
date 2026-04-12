@@ -36,6 +36,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 24 | Text Justification | String and Simulation | [View Code](./Day-24/) |
 | 25 | Valid Palindrome | String and Two pointer | [View Code](./Day-25/) |
 | 26 | Is Subsequence | String and Two pointer | [View Code](./Day-26/) |
+| 27 | Two Sum II - Input Array Is Sorted | Array and two pointers | [View Code](./Day-27/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
