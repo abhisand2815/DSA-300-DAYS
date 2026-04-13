@@ -37,6 +37,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 25 | Valid Palindrome | String and Two pointer | [View Code](./Day-25/) |
 | 26 | Is Subsequence | String and Two pointer | [View Code](./Day-26/) |
 | 27 | Two Sum II - Input Array Is Sorted | Array and two pointers | [View Code](./Day-27/) |
+| 28 | 3Sum | Array and two pointers | [View Code](./Day-28/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
