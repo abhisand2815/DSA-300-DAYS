@@ -38,6 +38,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 26 | Is Subsequence | String and Two pointer | [View Code](./Day-26/) |
 | 27 | Two Sum II - Input Array Is Sorted | Array and two pointers | [View Code](./Day-27/) |
 | 28 | 3Sum | Array and two pointers | [View Code](./Day-28/) |
+| 29 | Container With Most Water | Array and Greedy | [View Code](./Day-29/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
