@@ -39,6 +39,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 27 | Two Sum II - Input Array Is Sorted | Array and two pointers | [View Code](./Day-27/) |
 | 28 | 3Sum | Array and two pointers | [View Code](./Day-28/) |
 | 29 | Container With Most Water | Array and Greedy | [View Code](./Day-29/) |
+| 30 | Minimum Size subarray sum | Array and Binary Search | [View Code](./Day-30/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
