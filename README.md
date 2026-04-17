@@ -41,6 +41,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 29 | Container With Most Water | Array and Greedy | [View Code](./Day-29/) |
 | 30 | Minimum Size subarray sum | Array and Binary Search | [View Code](./Day-30/) |
 | 31 | Longest Substring without repeating characters | String and hash tabel | [View Code](./Day-31/) |
+| 32 | Substring with Concatenation of All Words | String and hash tabel | [View Code](./Day-32/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
