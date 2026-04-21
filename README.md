@@ -45,6 +45,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 33 | Minimum Window Substring | String, hash tabel, sliding window | [View Code](./Day-33/) |
 | 34 | Set Matrix Zero | Array , hash tabel, matrix | [View Code](./Day-34/) |
 | 35 | Ransom Note | String, hash tabel, counting | [View Code](./Day-35/) |
+| 36 | Valid Sudoku | Array, hash tabel, matrix | [View Code](./Day-36/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
