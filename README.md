@@ -47,6 +47,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 35 | Ransom Note | String, hash tabel, counting | [View Code](./Day-35/) |
 | 36 | Valid Sudoku | Array, hash tabel, matrix | [View Code](./Day-36/) |
 | 37 | Spiral Matrix | Array and matrix | [View Code](./Day-37/) |
+| 37 | Rotate Image | Array, Math, matrix | [View Code](./Day-38/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
