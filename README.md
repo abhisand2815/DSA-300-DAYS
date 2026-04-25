@@ -49,6 +49,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 37 | Spiral Matrix | Array and matrix | [View Code](./Day-37/) |
 | 38 | Rotate Image | Array, Math, matrix | [View Code](./Day-38/) |
 | 39 | Game Of Life | Array, Math, Simulation | [View Code](./Day-39/) |
+| 40 | Isomorphic Strings | Hash Table and Strings | [View Code](./Day-40/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
