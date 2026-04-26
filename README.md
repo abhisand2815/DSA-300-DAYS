@@ -51,6 +51,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 39 | Game Of Life | Array, Math, Simulation | [View Code](./Day-39/) |
 | 40 | Isomorphic Strings | Hash Table and Strings | [View Code](./Day-40/) |
 | 41 | Word Pattern | Hash Table and Strings | [View Code](./Day-41/) |
+| 42 | Valid Anagram | Hash Table, Strings and sorting | [View Code](./Day-42/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
