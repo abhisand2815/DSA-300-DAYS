@@ -52,6 +52,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 40 | Isomorphic Strings | Hash Table and Strings | [View Code](./Day-40/) |
 | 41 | Word Pattern | Hash Table and Strings | [View Code](./Day-41/) |
 | 42 | Valid Anagram | Hash Table, Strings and sorting | [View Code](./Day-42/) |
+| 43 | Group Anagrams | Hash Table, Strings, Array and sorting | [View Code](./Day-43/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
