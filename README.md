@@ -55,6 +55,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 43 | Group Anagrams | Hash Table, Strings, Array and sorting | [View Code](./Day-43/) |
 | 44 | Happy Number | Hash Table and two pointer | [View Code](./Day-44/) |
 | 45 | Contains Duplicate II | Hash Table and Sliding window | [View Code](./Day-45/) |
+| 46 | Longest Consecutive Sequence | Hash Table, Array | [View Code](./Day-46/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
