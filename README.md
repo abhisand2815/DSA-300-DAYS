@@ -56,6 +56,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 44 | Happy Number | Hash Table and two pointer | [View Code](./Day-44/) |
 | 45 | Contains Duplicate II | Hash Table and Sliding window | [View Code](./Day-45/) |
 | 46 | Longest Consecutive Sequence | Hash Table, Array | [View Code](./Day-46/) |
+| 47 | Summary Ranges | Array | [View Code](./Day-47/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
