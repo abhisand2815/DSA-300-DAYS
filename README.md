@@ -57,6 +57,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 45 | Contains Duplicate II | Hash Table and Sliding window | [View Code](./Day-45/) |
 | 46 | Longest Consecutive Sequence | Hash Table, Array | [View Code](./Day-46/) |
 | 47 | Summary Ranges | Array | [View Code](./Day-47/) |
+| 48 | Merge Intervals | Array and sorting | [View Code](./Day-48/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
