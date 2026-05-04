@@ -58,6 +58,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 46 | Longest Consecutive Sequence | Hash Table, Array | [View Code](./Day-46/) |
 | 47 | Summary Ranges | Array | [View Code](./Day-47/) |
 | 48 | Merge Intervals | Array and sorting | [View Code](./Day-48/) |
+| 49 | Insert Intervals | Array and sorting | [View Code](./Day-49/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
