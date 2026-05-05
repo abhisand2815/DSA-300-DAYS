@@ -59,6 +59,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 47 | Summary Ranges | Array | [View Code](./Day-47/) |
 | 48 | Merge Intervals | Array and sorting | [View Code](./Day-48/) |
 | 49 | Insert Intervals | Array and sorting | [View Code](./Day-49/) |
+| 50 | Minimum Number of Arrows to Burst Balloons | Array and sorting | [View Code](./Day-50/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
