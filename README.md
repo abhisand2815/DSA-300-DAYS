@@ -62,6 +62,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 50 | Minimum Number of Arrows to Burst Balloons | Array and sorting | [View Code](./Day-50/) |
 | 51 | Valid Parentheses | String and Stack| [View Code](./Day-51/) |
 | 52 | Simplify Path | String and Stack| [View Code](./Day-52/) |
+| 53 | Min Stack | Design and Stack| [View Code](./Day-53/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
