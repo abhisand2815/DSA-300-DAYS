@@ -63,6 +63,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 51 | Valid Parentheses | String and Stack| [View Code](./Day-51/) |
 | 52 | Simplify Path | String and Stack| [View Code](./Day-52/) |
 | 53 | Min Stack | Design and Stack| [View Code](./Day-53/) |
+| 54 | Evaluate Reverse Polish Notation | Array, Math, Stack| [View Code](./Day-54/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
