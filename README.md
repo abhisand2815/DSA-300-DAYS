@@ -65,6 +65,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 53 | Min Stack | Design and Stack| [View Code](./Day-53/) |
 | 54 | Evaluate Reverse Polish Notation | Array, Math, Stack | [View Code](./Day-54/) |
 | 55 | Basic Calculator | Array, Math, Stack, Recursion | [View Code](./Day-55/) |
+| 56 | Reverse Linked List II | Linked List | [View Code](./Day-56/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
