@@ -66,6 +66,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 54 | Evaluate Reverse Polish Notation | Array, Math, Stack | [View Code](./Day-54/) |
 | 55 | Basic Calculator | Array, Math, Stack, Recursion | [View Code](./Day-55/) |
 | 56 | Reverse Linked List II | Linked List | [View Code](./Day-56/) |
+| 57 | Reverse Nodes in k-Group | Linked List and Recursion | [View Code](./Day-57/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
