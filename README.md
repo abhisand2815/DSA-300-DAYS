@@ -67,6 +67,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 55 | Basic Calculator | Array, Math, Stack, Recursion | [View Code](./Day-55/) |
 | 56 | Reverse Linked List II | Linked List | [View Code](./Day-56/) |
 | 57 | Reverse Nodes in k-Group | Linked List and Recursion | [View Code](./Day-57/) |
+| 58 | Linked List Cycle | Linked List, Two pointer, hash table| [View Code](./Day-58/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
