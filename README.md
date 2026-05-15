@@ -69,6 +69,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 57 | Reverse Nodes in k-Group | Linked List and Recursion | 12 May 2026 | [View Code](./Day-57/) |
 | 58 | Linked List Cycle | Linked List, Two pointer, hash table | 13 May 2026 | [View Code](./Day-58/) |
 | 59 | Add Two numbers | Linked List, Recursion, Math | 14 May 2026 | [View Code](./Day-59/) |
+| 60 | Merge Two Sorted List | Linked List, Recursion | 15 May 2026 | [View Code](./Day-60/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
