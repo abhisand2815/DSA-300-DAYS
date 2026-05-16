@@ -70,6 +70,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 58 | Linked List Cycle | Linked List, Two pointer, hash table | 13 May 2026 | [View Code](./Day-58/) |
 | 59 | Add Two numbers | Linked List, Recursion, Math | 14 May 2026 | [View Code](./Day-59/) |
 | 60 | Merge Two Sorted List | Linked List, Recursion | 15 May 2026 | [View Code](./Day-60/) |
+| 61 | Copy List with Random Pointer | Linked List and hash table | 16 May 2026 | [View Code](./Day-61/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
