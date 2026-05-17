@@ -71,6 +71,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 59 | Add Two numbers | Linked List, Recursion, Math | 14 May 2026 | [View Code](./Day-59/) |
 | 60 | Merge Two Sorted List | Linked List, Recursion | 15 May 2026 | [View Code](./Day-60/) |
 | 61 | Copy List with Random Pointer | Linked List and hash table | 16 May 2026 | [View Code](./Day-61/) |
+| 62 | Remove Nth Node From End of List | Linked List, Two Pointer | 17 May 2026 | [View Code](./Day-62/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
