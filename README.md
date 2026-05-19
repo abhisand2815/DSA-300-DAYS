@@ -73,6 +73,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 61 | Copy List with Random Pointer | Linked List and hash table | 16 May 2026 | [View Code](./Day-61/) |
 | 62 | Remove Nth Node From End of List | Linked List, Two Pointer | 17 May 2026 | [View Code](./Day-62/) |
 | 63 | Remove Duplicates from Sorted List II | Linked List, Two Pointer | 18 May 2026 | [View Code](./Day-63/) |
+| 64 | Rotate List | Linked List, Two Pointer | 19 May 2026 | [View Code](./Day-64/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
