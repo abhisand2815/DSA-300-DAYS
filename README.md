@@ -77,6 +77,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 65 | Partition List | Linked List, Two Pointer | 20 May 2026 | [View Code](./Day-65/) |
 | 66 | Maximum Depth of Binary Tree | Binary Tree, DFS, BFS | 21 May 2026 | [View Code](./Day-66/) |
 | 67 | LRU Cache | Doubly Linked list, hash table | 22 May 2026 | [View Code](./Day-67/) |
+| 68 | Same Tree | Tree, BSF, DFS | 23 May 2026 | [View Code](./Day-68/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
