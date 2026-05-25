@@ -79,6 +79,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 67 | LRU Cache | Doubly Linked list, hash table | 22 May 2026 | [View Code](./Day-67/) |
 | 68 | Same Tree | Tree, BSF, DFS | 23 May 2026 | [View Code](./Day-68/) |
 | 69 | Invert Binary Tree | Binary Tree, BSF, DFS | 24 May 2026 | [View Code](./Day-69/) |
+| 70 | Symmetric Tree | Tree, BSF, DFS | 25 May 2026 | [View Code](./Day-70/) |
+
 
 ## Daily Goal
 - Solve 1–2 problems  
