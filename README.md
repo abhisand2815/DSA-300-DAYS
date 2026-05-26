@@ -80,7 +80,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 68 | Same Tree | Tree, BSF, DFS | 23 May 2026 | [View Code](./Day-68/) |
 | 69 | Invert Binary Tree | Binary Tree, BSF, DFS | 24 May 2026 | [View Code](./Day-69/) |
 | 70 | Symmetric Tree | Tree, BSF, DFS | 25 May 2026 | [View Code](./Day-70/) |
-| 71 | Construct Binary Tree from Preorder and Inorder Traversal | Array, Binary Tree, Hash Table | 26 May 2026 | [View Code](./Day-71/) |
+| 71 | Binary Tree from Preorder and Inorder Traversal | Array, Binary Tree, Hash Table | 26 May 2026 | [View Code](./Day-71/) |
 
 
 ## Daily Goal
