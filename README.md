@@ -82,6 +82,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 70 | Symmetric Tree | Tree, BSF, DFS | 25 May 2026 | [View Code](./Day-70/) |
 | 71 | Binary Tree from Preorder and Inorder Traversal | Array, Binary Tree, Hash Table | 26 May 2026 | [View Code](./Day-71/) |
 | 72 | Binary Tree from Inorder and Postorder Traversal| Array, Binary Tree, Hash Table | 27 May 2026 | [View Code](./Day-72/) |
+| 72 | Populating Next Right Pointers in Each Node | linked list, Binary Tree, DFS, BFS | 28 May 2026 | [View Code](./Day-73/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
