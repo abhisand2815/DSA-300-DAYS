@@ -85,6 +85,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 73 | Populating Next Right Pointers in Each Node | linked list, Binary Tree, DFS, BFS | 28 May 2026 | [View Code](./Day-73/) |
 | 74 | Flatten Binary Tree to Linked List | linked list, Binary Tree, DFS | 29 May 2026 | [View Code](./Day-74/) |
 | 75 | Path Sum |  Binary Tree, DFS, BFS | 30 May 2026 | [View Code](./Day-75/) |
+| 76 | Sum Root to Leaf Numbers |  Binary Tree, DFS | 31 May 2026 | [View Code](./Day-76/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
