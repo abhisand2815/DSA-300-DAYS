@@ -88,6 +88,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 76 | Sum Root to Leaf Numbers |  Binary Tree, DFS | 31 May 2026 | [View Code](./Day-76/) |
 | 77 | Binary Tree Maximum Path Sum |  Binary Tree, DFS, Dynamic programming | 1 June 2026 | [View Code](./Day-77/) |
 | 78 | Binary Search Tree Iterator |  Binary Tree, DFS, BFS | 2 June 2026 | [View Code](./Day-78/) |
+| 79 | Count Complete Tree Nodes |  Binary Tree, Bit, binary search | 3 June 2026 | [View Code](./Day-79/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
