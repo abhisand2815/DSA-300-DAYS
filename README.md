@@ -84,12 +84,13 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 72 | Binary Tree from Inorder and Postorder Traversal| Array, Binary Tree, Hash Table | 27 May 2026 | [View Code](./Day-72/) |
 | 73 | Populating Next Right Pointers in Each Node | linked list, Binary Tree, DFS, BFS | 28 May 2026 | [View Code](./Day-73/) |
 | 74 | Flatten Binary Tree to Linked List | linked list, Binary Tree, DFS | 29 May 2026 | [View Code](./Day-74/) |
-| 75 | Path Sum |  Binary Tree, DFS, BFS | 30 May 2026 | [View Code](./Day-75/) |
-| 76 | Sum Root to Leaf Numbers |  Binary Tree, DFS | 31 May 2026 | [View Code](./Day-76/) |
-| 77 | Binary Tree Maximum Path Sum |  Binary Tree, DFS, Dynamic programming | 1 June 2026 | [View Code](./Day-77/) |
-| 78 | Binary Search Tree Iterator |  Binary Tree, DFS, BFS | 2 June 2026 | [View Code](./Day-78/) |
-| 79 | Count Complete Tree Nodes |  Binary Tree, Bit, binary search | 3 June 2026 | [View Code](./Day-79/) |
-| 80 | Lowest Common Ancestor of a Binary Tree |  Binary Tree, DFS | 4 June 2026 | [View Code](./Day-80/) |
+| 75 | Path Sum | Binary Tree, DFS, BFS | 30 May 2026 | [View Code](./Day-75/) |
+| 76 | Sum Root to Leaf Numbers | Binary Tree, DFS | 31 May 2026 | [View Code](./Day-76/) |
+| 77 | Binary Tree Maximum Path Sum | Binary Tree, DFS, Dynamic programming | 1 June 2026 | [View Code](./Day-77/) |
+| 78 | Binary Search Tree Iterator | Binary Tree, DFS, BFS | 2 June 2026 | [View Code](./Day-78/) |
+| 79 | Count Complete Tree Nodes | Binary Tree, Bit, binary search | 3 June 2026 | [View Code](./Day-79/) |
+| 80 | Lowest Common Ancestor of a Binary Tree | Binary Tree, DFS | 4 June 2026 | [View Code](./Day-80/) |
+| 81 | Binary Tree Right Side View | Binary Tree, DFS | 5 June 2026 | [View Code](./Day-81/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
