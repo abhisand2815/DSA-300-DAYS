@@ -91,6 +91,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 79 | Count Complete Tree Nodes | Binary Tree, Bit, binary search | 3 June 2026 | [View Code](./Day-79/) |
 | 80 | Lowest Common Ancestor of a Binary Tree | Binary Tree, DFS | 4 June 2026 | [View Code](./Day-80/) |
 | 81 | Binary Tree Right Side View | Binary Tree, DFS | 5 June 2026 | [View Code](./Day-81/) |
+| 82 | Average of Levels in Binary Tree | Binary Tree, DFS, Mid Level | 6 June 2026 | [View Code](./Day-82/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
