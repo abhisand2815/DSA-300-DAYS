@@ -92,6 +92,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 80 | Lowest Common Ancestor of a Binary Tree | Binary Tree, DFS | 4 June 2026 | [View Code](./Day-80/) |
 | 81 | Binary Tree Right Side View | Binary Tree, DFS | 5 June 2026 | [View Code](./Day-81/) |
 | 82 | Average of Levels in Binary Tree | Binary Tree, DFS, Mid Level | 6 June 2026 | [View Code](./Day-82/) |
+| 83 | Binary Tree Level Order Traversal | Binary Tree, DFS | 7 June 2026 | [View Code](./Day-83/) |
+| 84 | Binary Tree Zigzag Level Order Traversal | Binary Tree, DFS, BFS | 8 June 2026 | [View Code](./Day-84/) |
+
 
 ## Daily Goal
 - Solve 1–2 problems  
