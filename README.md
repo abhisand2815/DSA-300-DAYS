@@ -94,6 +94,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 82 | Average of Levels in Binary Tree | Binary Tree, DFS, Mid Level | 6 June 2026 | [View Code](./Day-82/) |
 | 83 | Binary Tree Level Order Traversal | Binary Tree, DFS | 7 June 2026 | [View Code](./Day-83/) |
 | 84 | Binary Tree Zigzag Level Order Traversal | Binary Tree, DFS, BFS | 8 June 2026 | [View Code](./Day-84/) |
+| 85 | Minimum Absolute Difference in BST | Binary Tree, DFS, BFS | 9 June 2026 | [View Code](./Day-85/) |
 
 
 ## Daily Goal
