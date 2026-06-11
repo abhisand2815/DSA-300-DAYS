@@ -96,6 +96,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 84 | Binary Tree Zigzag Level Order Traversal | Binary Tree, DFS, BFS | 8 June 2026 | [View Code](./Day-84/) |
 | 85 | Minimum Absolute Difference in BST | Binary Tree, DFS, BFS | 9 June 2026 | [View Code](./Day-85/) |
 | 86 | Kth Smallest Element in a BST | Binary search Tree, DFS, BT | 10 June 2026 | [View Code](./Day-86/) |
+| 87 | Validate Binary Search Tree | Binary search Tree, DFS, BT | 11 June 2026 | [View Code](./Day-87/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
