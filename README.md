@@ -97,6 +97,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 85 | Minimum Absolute Difference in BST | Binary Tree, DFS, BFS | 9 June 2026 | [View Code](./Day-85/) |
 | 86 | Kth Smallest Element in a BST | Binary search Tree, DFS, BT | 10 June 2026 | [View Code](./Day-86/) |
 | 87 | Validate Binary Search Tree | Binary search Tree, DFS, BT | 11 June 2026 | [View Code](./Day-87/) |
+| 88 | Number of Island | array, DFS, BFS | 12 June 2026 | [View Code](./Day-88/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
