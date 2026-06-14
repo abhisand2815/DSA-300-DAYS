@@ -100,6 +100,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 88 | Number of Island | array, DFS, BFS | 12 June 2026 | [View Code](./Day-88/) |
 | 89 | Surrounded Regions | array, DFS, BFS | 13 June 2026 | [View Code](./Day-89/) |
 | 89 | Surrounded Regions | array, DFS, BFS | 13 June 2026 | [View Code](./Day-89/) |
+| 89 | Surrounded Regions | array, DFS, BFS | 13 June 2026 | [View Code](./Day-89/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
