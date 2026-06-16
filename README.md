@@ -101,6 +101,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 89 | Surrounded Regions | Array, DFS, BFS | 13 June 2026 | [View Code](./Day-89/) |
 | 90 | Clone Graph | Hash table DFS, BFS, Graph | 14 June 2026 | [View Code](./Day-90/) |
 | 91 | Evaluate Division | array, DFS, BFS, Graph theroy | 15 June 2026 | [View Code](./Day-91/) |
+| 92 | Course Schedule | array, DFS, BFS, Graph theroy | 16 June 2026 | [View Code](./Day-92/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
