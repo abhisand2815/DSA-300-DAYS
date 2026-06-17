@@ -102,6 +102,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 90 | Clone Graph | Hash table DFS, BFS, Graph | 14 June 2026 | [View Code](./Day-90/) |
 | 91 | Evaluate Division | array, DFS, BFS, Graph theroy | 15 June 2026 | [View Code](./Day-91/) |
 | 92 | Course Schedule | array, DFS, BFS, Graph theroy | 16 June 2026 | [View Code](./Day-92/) |
+| 93 | Course Schedule II | array, DFS, BFS, Graph theroy | 17 June 2026 | [View Code](./Day-93/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
