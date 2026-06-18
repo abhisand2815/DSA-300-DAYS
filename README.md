@@ -103,6 +103,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 91 | Evaluate Division | array, DFS, BFS, Graph theroy | 15 June 2026 | [View Code](./Day-91/) |
 | 92 | Course Schedule | array, DFS, BFS, Graph theroy | 16 June 2026 | [View Code](./Day-92/) |
 | 93 | Course Schedule II | array, DFS, BFS, Graph theroy | 17 June 2026 | [View Code](./Day-93/) |
+| 94 | Snakes and Ladders | array, Matrix, BFS | 18 June 2026 | [View Code](./Day-94/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
