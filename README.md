@@ -105,6 +105,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 93 | Course Schedule II | array, DFS, BFS, Graph theroy | 17 June 2026 | [View Code](./Day-93/) |
 | 94 | Snakes and Ladders | array, Matrix, BFS | 18 June 2026 | [View Code](./Day-94/) |
 | 95 | Minimum Genetic Mutation | Hash Table, String, BFS | 19 June 2026 | [View Code](./Day-95/) |
+| 96 | Word Ladder | Hash Table, String, BFS | 20 June 2026 | [View Code](./Day-96/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
