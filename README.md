@@ -106,6 +106,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 94 | Snakes and Ladders | array, Matrix, BFS | 18 June 2026 | [View Code](./Day-94/) |
 | 95 | Minimum Genetic Mutation | Hash Table, String, BFS | 19 June 2026 | [View Code](./Day-95/) |
 | 96 | Word Ladder | Hash Table, String, BFS | 20 June 2026 | [View Code](./Day-96/) |
+| 97 | Implement Trie (Prefix Tree) | Hash Table, String, design, trie | 21 June 2026 | [View Code](./Day-97/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
