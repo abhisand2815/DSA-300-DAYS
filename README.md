@@ -107,6 +107,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 95 | Minimum Genetic Mutation | Hash Table, String, BFS | 19 June 2026 | [View Code](./Day-95/) |
 | 96 | Word Ladder | Hash Table, String, BFS | 20 June 2026 | [View Code](./Day-96/) |
 | 97 | Implement Trie (Prefix Tree) | Hash Table, String, design, trie | 21 June 2026 | [View Code](./Day-97/) |
+| 98 | Design Add and Search Words Data Structure | DFS, String | 22 June 2026 | [View Code](./Day-98/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
@@ -119,22 +120,4 @@ This repository reflects my commitment to continuous improvement and becoming a 
 
 If you like this journey, feel free to follow!
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/abhisand2815/DSA-300-DAYS/tree/master/0211-design-add-and-search-words-data-structure) |
-## Depth-First Search
-|  |
-| ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/abhisand2815/DSA-300-DAYS/tree/master/0211-design-add-and-search-words-data-structure) |
-## Design
-|  |
-| ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/abhisand2815/DSA-300-DAYS/tree/master/0211-design-add-and-search-words-data-structure) |
-## Trie
-|  |
-| ------- |
-| [0211-design-add-and-search-words-data-structure](https://github.com/abhisand2815/DSA-300-DAYS/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
