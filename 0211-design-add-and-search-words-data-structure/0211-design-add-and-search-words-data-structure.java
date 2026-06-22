@@ -1,7 +1,7 @@
 class WordDictionary {
 
     class TrieNode {
-        TrieNode[] children = new TrieNode[26];
+        Map<Character, TrieNode> children = new HashMap<>();
         boolean isEnd = false;
     }
 
@@ -16,19 +16,14 @@ class WordDictionary {
         TrieNode node = root;
 
         for (char c : word.toCharArray()) {
-            int index = c - 'a';
-
-            if (node.children[index] == null) {
-                node.children[index] = new TrieNode();
-            }
-
-            node = node.children[index];
+            node.children.putIfAbsent(c, new TrieNode());
+            node = node.children.get(c);
         }
 
         node.isEnd = true;
     }
 
-    // Search with '.' support
+    // Search with optimization
     public boolean search(String word) {
         return dfs(word, 0, root);
     }
@@ -36,22 +31,17 @@ class WordDictionary {
     private boolean dfs(String word, int i, TrieNode node) {
         if (node == null) return false;
 
-        if (i == word.length()) {
-            return node.isEnd;
-        }
+        if (i == word.length()) return node.isEnd;
 
         char c = word.charAt(i);
 
-        // normal character
         if (c != '.') {
-            return dfs(word, i + 1, node.children[c - 'a']);
+            return dfs(word, i + 1, node.children.get(c));
         }
 
-        // wildcard case '.'
-        for (TrieNode child : node.children) {
-            if (child != null && dfs(word, i + 1, child)) {
-                return true;
-            }
+        // '.' case → only iterate existing children
+        for (TrieNode child : node.children.values()) {
+            if (dfs(word, i + 1, child)) return true;
         }
 
         return false;
