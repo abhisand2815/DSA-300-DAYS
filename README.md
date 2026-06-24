@@ -109,6 +109,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 97 | Implement Trie (Prefix Tree) | Hash Table, String, design, trie | 21 June 2026 | [View Code](./Day-97/) |
 | 98 | Design Add and Search Words Data Structure | DFS, String | 22 June 2026 | [View Code](./Day-98/) |
 | 99 | Word Search II | String, array, tie, matrix | 23 June 2026 | [View Code](./Day-99/) |
+| 100 | Combination | backtracking | 24 June 2026 | [View Code](./Day100/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
