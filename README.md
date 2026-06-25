@@ -110,6 +110,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 98 | Design Add and Search Words Data Structure | DFS, String | 22 June 2026 | [View Code](./Day-98/) |
 | 99 | Word Search II | String, array, tie, matrix | 23 June 2026 | [View Code](./Day-99/) |
 | 100 | Combination | backtracking | 24 June 2026 | [View Code](./Day100/) |
+| 101 | Letter Combinations of a Phone Number | backtracking, hash table | 25 June 2026 | [View Code](./Day101/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
