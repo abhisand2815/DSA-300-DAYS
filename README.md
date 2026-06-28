@@ -113,6 +113,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 101 | Letter Combinations of a Phone Number | backtracking, hash table | 25 June 2026 | [View Code](./Day101/) |
 | 102 | Permutation | backtracking, Array | 26 June 2026 | [View Code](./Day102/) |
 | 103 | Combination Sum | backtracking, Array | 27 June 2026 | [View Code](./Day103/) |
+| 104 | N-Queens II | backtracking | 28 June 2026 | [View Code](./Day104/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
