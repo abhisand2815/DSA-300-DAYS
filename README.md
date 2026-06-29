@@ -114,7 +114,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 102 | Permutation | backtracking, Array | 26 June 2026 | [View Code](./Day102/) |
 | 103 | Combination Sum | backtracking, Array | 27 June 2026 | [View Code](./Day103/) |
 | 104 | N-Queens II | backtracking | 28 June 2026 | [View Code](./Day104/) |
-| 105 | Generate Parentheses | backtracking, String, Dynamic programming | 29 June 2026 | [View Code](./Day105/) |
+| 105 | Generate Parentheses | backtracking, String | 29 June 2026 | [View Code](./Day105/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
