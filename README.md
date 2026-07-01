@@ -115,7 +115,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 103 | Combination Sum | backtracking, Array | 27 June 2026 | [View Code](./Day103/) |
 | 104 | N-Queens II | backtracking | 28 June 2026 | [View Code](./Day104/) |
 | 105 | Generate Parentheses | backtracking, String | 29 June 2026 | [View Code](./Day105/) |
-| 106 | Word Search | backtracking, String, Arrya, DFS | 30 June 2026 | [View Code](./Day106/) |
+| 106 | Word Search | backtracking, String, Array, DFS | 30 June 2026 | [View Code](./Day106/) |
+| 107 | Convert Sorted Array to Binary Search Tree | Binary Tree, Array | 1 July 2026 | [View Code](./Day107/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
