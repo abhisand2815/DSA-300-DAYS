@@ -120,6 +120,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 108 | Sort List | linked list, merge sort, two pointer | 2 July 2026 | [View Code](./Day108/) |
 | 109 | Construct Quad Tree | Array, tree, matrix | 3 July 2026 | [View Code](./Day109/) |
 | 110 | Merge k Sorted Lists | Linked List, Heap, Merge Sort | 4 July 2026 | [View Code](./Day110/) |
+| 111 | Maximum subarray | Array, Kadane's Algorithm | 5 July 2026 | [View Code](./Day111/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
