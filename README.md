@@ -122,7 +122,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 110 | Merge k Sorted Lists | Linked List, Heap, Merge Sort | 4 July 2026 | [View Code](./Day110/) |
 | 111 | Maximum subarray | Array, Kadane's Algorithm | 5 July 2026 | [View Code](./Day111/) |
 | 112 | Maximum sum circular subarray | Array, queue, Kadane's Algorithm | 6 July 2026 | [View Code](./Day112/) |
-| 113 | Search Insert Position | Array, Binary search| 7 July 2026 | [View Code](./Day113/) |
+| 113 | Search Insert Position | Array, Binary search | 7 July 2026 | [View Code](./Day113/) |
+| 114 | Search a 2D Matrix | Array, Binary search, matrix | 8 July 2026 | [View Code](./Day114/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
