@@ -124,7 +124,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 112 | Maximum sum circular subarray | Array, queue, Kadane's Algorithm | 6 July 2026 | [View Code](./Day112/) |
 | 113 | Search Insert Position | Array, Binary search | 7 July 2026 | [View Code](./Day113/) |
 | 114 | Search a 2D Matrix | Array, Binary search, matrix | 8 July 2026 | [View Code](./Day114/) |
-| 115 | Finad Peak Element | Array, Binary search | 9 July 2026 | [View Code](./Day115/) |
+| 115 | Find Peak Element | Array, Binary search | 9 July 2026 | [View Code](./Day115/) |
+| 116 | Search in Rotated Sorted Array | Array, Binary search | 10 July 2026 | [View Code](./Day116/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
