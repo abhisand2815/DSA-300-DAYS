@@ -126,6 +126,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 114 | Search a 2D Matrix | Array, Binary search, matrix | 8 July 2026 | [View Code](./Day114/) |
 | 115 | Find Peak Element | Array, Binary search | 9 July 2026 | [View Code](./Day115/) |
 | 116 | Search in Rotated Sorted Array | Array, Binary search | 10 July 2026 | [View Code](./Day116/) |
+| 117 | Find First and Last Position of Element in Sorted Array | Array, Binary search | 11 July 2026 | [View Code](./Day117/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
