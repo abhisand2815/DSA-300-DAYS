@@ -128,6 +128,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 116 | Search in Rotated Sorted Array | Array, Binary search | 10 July 2026 | [View Code](./Day116/) |
 | 117 | First and Last Position of Element in Sorted Array | Array, Binary search | 11 July 2026 | [View Code](./Day117/) |
 | 118 | Find Minimum in Rotated Sorted Array | Array, Binary search | 12 July 2026 | [View Code](./Day118/) |
+| 119 | Median of two sorted arrays | Array, Binary search | 13 July 2026 | [View Code](./Day119/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
