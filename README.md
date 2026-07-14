@@ -129,6 +129,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 117 | First and Last Position of Element in Sorted Array | Array, Binary search | 11 July 2026 | [View Code](./Day117/) |
 | 118 | Find Minimum in Rotated Sorted Array | Array, Binary search | 12 July 2026 | [View Code](./Day118/) |
 | 119 | Median of two sorted arrays | Array, Binary search | 13 July 2026 | [View Code](./Day119/) |
+| 120 | Kth Largest element in an array | Array, Sorting, quickselect | 14 July 2026 | [View Code](./Day120/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
