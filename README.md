@@ -131,6 +131,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 119 | Median of two sorted arrays | Array, Binary search | 13 July 2026 | [View Code](./Day119/) |
 | 120 | Kth Largest element in an array | Array, Sorting, quickselect | 14 July 2026 | [View Code](./Day120/) |
 | 121 | IPO | Array, Sorting, Heap | 15 July 2026 | [View Code](./Day121/) |
+| 122 | Find K Pairs with Smallest Sums | Array, Heap | 16 July 2026 | [View Code](./Day122/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
