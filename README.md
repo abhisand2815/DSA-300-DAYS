@@ -134,6 +134,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 122 | Find K Pairs with Smallest Sums | Array, Heap | 16 July 2026 | [View Code](./Day122/) |
 | 123 | Find Median from Data Stream | sorting, Heap, data stream | 17 July 2026 | [View Code](./Day123/) |
 | 124 | Add Binary | Math, string, bit manupilation | 18 July 2026 | [View Code](./Day124/) |
+| 125 | Reverse Bits | Divide & Conquer, bit manipulation | 19 July 2026 | [View Code](./Day125/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
