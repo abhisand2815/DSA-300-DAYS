@@ -135,6 +135,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 123 | Find Median from Data Stream | sorting, Heap, data stream | 17 July 2026 | [View Code](./Day123/) |
 | 124 | Add Binary | Math, string, bit manupilation | 18 July 2026 | [View Code](./Day124/) |
 | 125 | Reverse Bits | Divide & Conquer, bit manipulation | 19 July 2026 | [View Code](./Day125/) |
+| 126 | Number of 1 bits | Divide & Conquer, bit manipulation | 20 July 2026 | [View Code](./Day126/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
