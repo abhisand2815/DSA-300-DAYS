@@ -137,6 +137,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 125 | Reverse Bits | Divide & Conquer, bit manipulation | 19 July 2026 | [View Code](./Day125/) |
 | 126 | Number of 1 bits | Divide & Conquer, bit manipulation | 20 July 2026 | [View Code](./Day126/) |
 | 127 | Single Number | Array, bit manipulation | 21 July 2026 | [View Code](./Day127/) |
+| 128 | Single Number II | Array, bit manipulation | 22 July 2026 | [View Code](./Day128/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
