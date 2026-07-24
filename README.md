@@ -139,6 +139,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 127 | Single Number | Array, bit manipulation | 21 July 2026 | [View Code](./Day127/) |
 | 128 | Single Number II | Array, bit manipulation | 22 July 2026 | [View Code](./Day128/) |
 | 129 | Bitwise AND of Numbers Range | bit manipulation | 23 July 2026 | [View Code](./Day129/) |
+| 130 | Plaindrome number | math | 24 July 2026 | [View Code](./Day130/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
