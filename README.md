@@ -146,6 +146,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 134 | Pow(x,n) | maths, Recursion | 28 July 2026 | [View Code](./Day134/) |
 | 135 | Max Points on a Line | maths, Hash table, math, geometry | 29 July 2026 | [View Code](./Day135/) |
 | 136 | Climbing Stairs | maths, Dynamic programming | 30 July 2026 | [View Code](./Day136/) |
+| 137 | House Robber | array, Dynamic programming | 31 July 2026 | [View Code](./Day137/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
