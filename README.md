@@ -148,6 +148,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 136 | Climbing Stairs | maths, Dynamic programming | 30 July 2026 | [View Code](./Day136/) |
 | 137 | House Robber | array, Dynamic programming | 31 July 2026 | [View Code](./Day137/) |
 | 138 | Word Break | array, Hash table, DP, String | 1 August 2026 | [View Code](./Day138/) |
+| 139 | Coin Change | array, BFS, DP | 2 August 2026 | [View Code](./Day139/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
