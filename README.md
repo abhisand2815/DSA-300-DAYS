@@ -150,6 +150,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 138 | Word Break | array, Hash table, DP, String | 1 August 2026 | [View Code](./Day138/) |
 | 139 | Coin Change | array, BFS, DP | 2 August 2026 | [View Code](./Day139/) |
 | 140 | Longest Increasing Subsequence | array, binary search, DP | 3 August 2026 | [View Code](./Day140/) |
+| 141 | Triangle | array, DP | 4 August 2026 | [View Code](./Day141/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
