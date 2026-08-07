@@ -154,6 +154,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 142 | Minimum Path Sum | array, DP, Matrix | 5 August 2026 | [View Code](./Day142/) |
 | 143 | Unique Paths II | array, DP, Matrix | 6 August 2026 | [View Code](./Day143/) |
 | 144 | Longest Palindromic Substring | two pointers, DP, strings | 7 August 2026 | [View Code](./Day144/) |
+|     | Maximum Product Subarray | Array, dynamic programming | 7 August 2026 | [View Code](./Day144/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
