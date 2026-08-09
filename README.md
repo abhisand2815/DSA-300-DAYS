@@ -156,6 +156,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 144 | Longest Palindromic Substring | two pointers, DP, strings | 7 August 2026 | [View Code](./Day144/) |
 |     | Maximum Product Subarray | Array, dynamic programming | 7 August 2026 | [View Code](./Day144/) |
 | 145 | Interleaving String | Strings, dynamic programming | 8 August 2026 | [View Code](./Day145/) |
+| 146 | Edit Distance | Strings, dynamic programming | 9 August 2026 | [View Code](./Day146/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
