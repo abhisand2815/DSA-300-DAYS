@@ -163,6 +163,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 150 | Merge string alternately | two pointers, string | 13 August 2026 | [View Code](./Day150/) |
 | 151 | Greatest Common Divisor of Strings | math, string, Euclidean algorithm | 14 August 2026 | [View Code](./Day151/) |
 | 152 | Kids With the Greatest Number of Candies | midlevel, array | 15 August 2026 | [View Code](./Day152/) |
+| 153 | Can Place Flowers | Greedy, array | 16 August 2026 | [View Code](./Day153/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
