@@ -166,6 +166,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 153 | Can Place Flowers | Greedy, array | 16 August 2026 | [View Code](./Day153/) |
 |     | Reverse Vowels of a String | two pointers, strings | 16 August 2026 | [View Code](./Day153/) |
 | 154 | Increasing Triplet Subsequence | Greedy, array, Longest subsequence | 17 August 2026 | [View Code](./Day154/) |
+| 155 | String Compression | Two Pointers and Strings | 18 August 2026 | [View Code](./Day155/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
