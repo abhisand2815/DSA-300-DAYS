@@ -168,6 +168,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 154 | Increasing Triplet Subsequence | Greedy, array, Longest subsequence | 17 August 2026 | [View Code](./Day154/) |
 | 155 | String Compression | Two Pointers and Strings | 18 August 2026 | [View Code](./Day155/) |
 | 156 | Max Number of K-Sum Pairs | Two Pointers, Array, Hash table, sorting | 19 August 2026 | [View Code](./Day156/) |
+| 157 | Distribute Elements Into Two Arrays I | Array, Simulation | 20 August 2026 | [View Code](./Day157/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
