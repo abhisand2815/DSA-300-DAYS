@@ -170,6 +170,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 156 | Max Number of K-Sum Pairs | Two Pointers, Array, Hash table, sorting | 19 August 2026 | [View Code](./Day156/) |
 | 157 | Distribute Elements Into Two Arrays I | Array, Simulation | 20 August 2026 | [View Code](./Day157/) |
 | 158 | Kth Smallest Amount Single Denomination comb. | Array, Math, BS | 21 August 2026 | [View Code](./Day158/) |
+| 159 | Check Divisibility by Digit Sum and Product | Math, BS | 22 August 2026 | [View Code](./Day159/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
