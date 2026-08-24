@@ -172,6 +172,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 158 | Kth Smallest Amount Single Denomination comb. | Array, Math, BS | 21 August 2026 | [View Code](./Day158/) |
 | 159 | Check Divisibility by Digit Sum and Product | Math, BS | 22 August 2026 | [View Code](./Day159/) |
 | 160 | Sum Game | Math, String, Greedy algorithm | 23 August 2026 | [View Code](./Day160/) |
+| 161 | Stone Game VIII | Math, Array, DP, Prefix Sum, Minimax | 24 August 2026 | [View Code](./Day161/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
