@@ -174,7 +174,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 160 | Sum Game | Math, String, Greedy algorithm | 23 August 2026 | [View Code](./Day160/) |
 | 161 | Stone Game VIII | Math, Array, DP, Prefix Sum, Minimax | 24 August 2026 | [View Code](./Day161/) |
 | 162 | Smallest Missing Multiple of K | Array, Hash Table | 25 August 2026 | [View Code](./Day162/) |
-| 163 | Shortest and Lexicographically Small Beautiful String | String | 26 August 2026 | [View Code](./Day163/) |
+| 163 | Shortest and Lexicographically Smallest String | String | 26 August 2026 | [View Code](./Day163/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
