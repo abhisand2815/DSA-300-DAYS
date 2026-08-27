@@ -175,6 +175,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 161 | Stone Game VIII | Math, Array, DP, Prefix Sum, Minimax | 24 August 2026 | [View Code](./Day161/) |
 | 162 | Smallest Missing Multiple of K | Array, Hash Table | 25 August 2026 | [View Code](./Day162/) |
 | 163 | Shortest and Lexicographically Smallest String | String | 26 August 2026 | [View Code](./Day163/) |
+| 164 | Lexicographically Smallest Permutation Greater | String | 27 August 2026 | [View Code](./Day164/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
