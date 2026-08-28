@@ -176,6 +176,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 162 | Smallest Missing Multiple of K | Array, Hash Table | 25 August 2026 | [View Code](./Day162/) |
 | 163 | Shortest and Lexicographically Smallest String | String | 26 August 2026 | [View Code](./Day163/) |
 | 164 | Lexicographically Smallest Permutation Greater | String | 27 August 2026 | [View Code](./Day164/) |
+| 165 | Lexicographically Permutation Greater Than Target | String | 28 August 2026 | [View Code](./Day165/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
