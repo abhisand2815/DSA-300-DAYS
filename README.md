@@ -177,6 +177,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 163 | Shortest and Lexicographically Smallest String | String | 26 August 2026 | [View Code](./Day163/) |
 | 164 | Lexicographically Smallest Permutation Greater | String | 27 August 2026 | [View Code](./Day164/) |
 | 165 | Lexicographically Permutation Greater Target | String | 28 August 2026 | [View Code](./Day165/) |
+| 166 | Lexicographically Smallest by Swapping Elem | String | 29 August 2026 | [View Code](./Day166/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
