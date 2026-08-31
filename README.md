@@ -179,7 +179,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 165 | Lexicographically Permutation Greater Target | String | 28 August 2026 | [View Code](./Day165/) |
 | 166 | Lexicographically Smallest by Swapping Elem | String | 29 August 2026 | [View Code](./Day166/) |
 | 167 | Removing Minimum and Maximum From Array | Array, greedy | 30 August 2026 | [View Code](./Day167/) |
-| 168 | Find Min & Max Number of Nodes Btw Critical Points | Linked list | 31 August 2026 | [View Code](./Day168/) |
+| 168 | Find Min & Max Number of Nodes Critical Points | Linked list | 31 August 2026 | [View Code](./Day168/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
