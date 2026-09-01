@@ -180,6 +180,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 166 | Lexicographically Smallest by Swapping Elem | String | 29 August 2026 | [View Code](./Day166/) |
 | 167 | Removing Minimum and Maximum From Array | Array, greedy | 30 August 2026 | [View Code](./Day167/) |
 | 168 | Find Min & Max Number of Nodes Critical Points | Linked list | 31 August 2026 | [View Code](./Day168/) |
+| 169 | Minimum Moves to Clean the Classroom | Array, hash table, BFS | 1 Sept 2026 | [View Code](./Day169/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
