@@ -183,6 +183,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 169 | Minimum Moves to Clean the Classroom | Array, hash table, BFS | 1 Sept 2026 | [View Code](./Day169/) |
 | 170 | Construct Uniform Parity Array I | Array, Math | 2 Sept 2026 | [View Code](./Day170/) |
 |     | Reverse Linked List | linked list, recursion | 2 Sept 2026 | [View Code](./Day170/) |
+| 171 | Construct Uniform Parity Array II | Array, Math | 3 Sept 2026 | [View Code](./Day171/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
