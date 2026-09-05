@@ -185,6 +185,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 |     | Reverse Linked List | linked list, recursion | 2 Sept 2026 | [View Code](./Day170/) |
 | 171 | Construct Uniform Parity Array II | Array, Math | 3 Sept 2026 | [View Code](./Day171/) |
 | 172 | Smallest Stable Index I | Array, prefix sum | 4 Sept 2026 | [View Code](./Day172/) |
+| 173 | Smallest Stable Index II | Array, prefix sum | 5 Sept 2026 | [View Code](./Day173/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
