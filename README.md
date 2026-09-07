@@ -187,6 +187,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 172 | Smallest Stable Index I | Array, prefix sum | 4 Sept 2026 | [View Code](./Day172/) |
 | 173 | Smallest Stable Index II | Array, prefix sum | 5 Sept 2026 | [View Code](./Day173/) |
 | 174 | Distinct Subsequences | String, Dynamic programming | 6 Sept 2026 | [View Code](./Day174/) |
+| 175 | Distinct Subsequences II | String, Dynamic programming | 7 Sept 2026 | [View Code](./Day175/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
