@@ -1,26 +1,23 @@
+import java.util.*;
 class Solution {
-    public boolean isPalindrome(String s) {
-        int left = 0, right = s.length() - 1;
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
+        for (char ch : s.toCharArray()) {
+            if (ch == '(' || ch == '{' || ch == '[') {
+                stack.push(ch);
+            } else {
+                if (stack.isEmpty()) {
+                    return false;
+                }
+                char top = stack.pop();
+                if ((ch == ')' && top != '(') ||
+                    (ch == '}' && top != '{') ||
+                    (ch == ']' && top != '[')) {
 
-        while (left < right) {
-            // Skip non-alphanumeric
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
-                left++;
+                    return false;
+                }
             }
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
-                right--;
-            }
-
-            // Compare (case-insensitive)
-            if (Character.toLowerCase(s.charAt(left)) != 
-                Character.toLowerCase(s.charAt(right))) {
-                return false;
-            }
-
-            left++;
-            right--;
         }
-
-        return true;
+        return stack.isEmpty();
     }
 }
