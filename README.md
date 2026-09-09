@@ -190,6 +190,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 175 | Distinct Subsequences II | String, Dynamic programming | 7 Sept 2026 | [View Code](./Day175/) |
 | 176 | Count Commas in Range I | Math | 8 Sept 2026 | [View Code](./Day176/) |
 | 177 | Count Commas in Range II | Math | 9 Sept 2026 | [View Code](./Day177/) |
+|     | Next Greater Element I | Array, hash table, stack | 10 Sept 2026 | [View Code](./Day177/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
