@@ -188,7 +188,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 173 | Smallest Stable Index II | Array, prefix sum | 5 Sept 2026 | [View Code](./Day173/) |
 | 174 | Distinct Subsequences | String, Dynamic programming | 6 Sept 2026 | [View Code](./Day174/) |
 | 175 | Distinct Subsequences II | String, Dynamic programming | 7 Sept 2026 | [View Code](./Day175/) |
-| 176 | Count Commas in Range | Math | 8 Sept 2026 | [View Code](./Day176/) |
+| 176 | Count Commas in Range I | Math | 8 Sept 2026 | [View Code](./Day176/) |
+| 177 | Count Commas in Range II | Math | 9 Sept 2026 | [View Code](./Day177/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
