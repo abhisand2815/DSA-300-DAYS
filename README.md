@@ -192,6 +192,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 177 | Count Commas in Range II | Math | 9 Sept 2026 | [View Code](./Day177/) |
 |     | Next Greater Element I | Array, hash table, stack | 9 Sept 2026 | [View Code](./Day177/) |
 | 178 | Count Nodes Equal to Average of Subtree | Tree, DFS | 10 Sept 2026 | [View Code](./Day178/) |
+| 179 | Unique 3-Digit Even Numbers | array, hash table, recursion | 11 Sept 2026 | [View Code](./Day179/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
