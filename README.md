@@ -197,6 +197,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 181 | Image Overlap | Array, Matrix | 13 Sept 2026 | [View Code](./Day181/) |
 | 182 | Rectangular Overlap | Math, geometry | 14 Sept 2026 | [View Code](./Day182/) |
 | 183 | Max no of Non-overlapping Pali Substrings | String, greedy, DP | 15 Sept 2026 | [View Code](./Day183/) |
+| 184 | No. of Set of K Non-Overlapping Line Segments | prefix sum, DP | 16 Sept 2026 | [View Code](./Day184/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
