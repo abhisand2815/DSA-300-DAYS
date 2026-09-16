@@ -196,7 +196,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 180 | Maximum Score of Non-overlapping Intervals | Array, BS, DP | 12 Sept 2026 | [View Code](./Day180/) |
 | 181 | Image Overlap | Array, Matrix | 13 Sept 2026 | [View Code](./Day181/) |
 | 182 | Rectangular Overlap | Math, geometry | 14 Sept 2026 | [View Code](./Day182/) |
-| 183 | Max no of Non-overlapping Palindrome Substrings | String, greedy, DP | 15 Sept 2026 | [View Code](./Day183/) |
+| 183 | Max no of Non-overlapping Pali Substrings | String, greedy, DP | 15 Sept 2026 | [View Code](./Day183/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
