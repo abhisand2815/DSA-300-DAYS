@@ -198,7 +198,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 182 | Rectangular Overlap | Math, geometry | 14 Sept 2026 | [View Code](./Day182/) |
 | 183 | Max no of Non-overlapping Pali Substrings | String, greedy, DP | 15 Sept 2026 | [View Code](./Day183/) |
 | 184 | No. of Set of K Non-Overlapping Line Segments | prefix sum, DP | 16 Sept 2026 | [View Code](./Day184/) |
-| 185 | Two Non-overlapping Sub-arrays Each Target Sum | array, hash table, BS | 17 Sept 2026 | [View Code](./Day185/) |
+| 185 | Two Non-overlapping Sub-array Each Target Sum | array, hash table, BS | 17 Sept 2026 | [View Code](./Day185/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
