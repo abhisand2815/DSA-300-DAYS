@@ -199,6 +199,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 183 | Max no of Non-overlapping Pali Substrings | String, greedy, DP | 15 Sept 2026 | [View Code](./Day183/) |
 | 184 | No. of Set of K Non-Overlapping Line Segments | prefix sum, DP | 16 Sept 2026 | [View Code](./Day184/) |
 | 185 | Two Non-overlap Sub-array Each Target Sum | array, hash table, BS | 17 Sept 2026 | [View Code](./Day185/) |
+| 186 | Max Number of Non-Overlapping Substrings | string, hash table | 18 Sept 2026 | [View Code](./Day186/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
