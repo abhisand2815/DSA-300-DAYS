@@ -200,6 +200,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 184 | No. of Set of K Non-Overlapping Line Segments | prefix sum, DP | 16 Sept 2026 | [View Code](./Day184/) |
 | 185 | Two Non-overlap Sub-array Each Target Sum | array, hash table, BS | 17 Sept 2026 | [View Code](./Day185/) |
 | 186 | Max Number of Non-Overlapping Substrings | string, hash table | 18 Sept 2026 | [View Code](./Day186/) |
+| 187 | Circle and Rectangle Overlapping | math, geometry | 19 Sept 2026 | [View Code](./Day187/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
