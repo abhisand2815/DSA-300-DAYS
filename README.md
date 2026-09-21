@@ -202,6 +202,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 186 | Max Number of Non-Overlapping Substrings | string, hash table | 18 Sept 2026 | [View Code](./Day186/) |
 | 187 | Circle and Rectangle Overlapping | math, geometry | 19 Sept 2026 | [View Code](./Day187/) |
 | 188 | Reverse Degree of a String | String, simulation | 20 Sept 2026 | [View Code](./Day188/) |
+| 189 | Find X Value of Array I | Array, math, DP | 21 Sept 2026 | [View Code](./Day189/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
