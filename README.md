@@ -204,6 +204,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 188 | Reverse Degree of a String | String, simulation | 20 Sept 2026 | [View Code](./Day188/) |
 | 189 | Find X Value of Array I | Array, math, DP | 21 Sept 2026 | [View Code](./Day189/) |
 | 190 | Find X Value of Array II | Array, math, DP | 22 Sept 2026 | [View Code](./Day190/) |
+| 191 | Minimum Operations to Reduce X to Zero | Hash table, BS | 23 Sept 2026 | [View Code](./Day191/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
