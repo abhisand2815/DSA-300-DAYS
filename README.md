@@ -205,6 +205,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 189 | Find X Value of Array I | Array, math, DP | 21 Sept 2026 | [View Code](./Day189/) |
 | 190 | Find X Value of Array II | Array, math, DP | 22 Sept 2026 | [View Code](./Day190/) |
 | 191 | Minimum Operations to Reduce X to Zero | Hash table, BS | 23 Sept 2026 | [View Code](./Day191/) |
+| 192 | Smallest Index With Digit Sum Equal to Index | Array | 24 Sept 2026 | [View Code](./Day192/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
