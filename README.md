@@ -207,6 +207,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 191 | Minimum Operations to Reduce X to Zero | Hash table, BS | 23 Sept 2026 | [View Code](./Day191/) |
 | 192 | Smallest Index With Digit Sum Equal to Index | Array | 24 Sept 2026 | [View Code](./Day192/) |
 | 193 | Brace Expansion II | Hash table, string, stack, BFS | 25 Sept 2026 | [View Code](./Day193/) |
+| 194 | Evaluate the Bracket Pairs of a String | Array, hash table, string | 26 Sept 2026 | [View Code](./Day194/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
