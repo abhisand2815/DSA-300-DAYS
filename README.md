@@ -210,6 +210,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 194 | Evaluate the Bracket Pairs of a String | Array, hash table, string | 26 Sept 2026 | [View Code](./Day194/) |
 | 195 | Reverse Substrings Between Pair of Parentheses | Stack, string | 27 Sept 2026 | [View Code](./Day195/) |
 | 196 | Maximum Nesting Depth of the Parentheses | Stack, string | 28 Sept 2026 | [View Code](./Day196/) |
+| 197 | Check if There Is a Valid Parentheses String Path | Array, DP, Matrix | 29 Sept 2026 | [View Code](./Day197/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
