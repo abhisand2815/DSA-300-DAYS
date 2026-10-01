@@ -212,6 +212,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 196 | Maximum Nesting Depth of the Parentheses | Stack, string | 28 Sept 2026 | [View Code](./Day196/) |
 | 197 | Check if There Is a Valid Parentheses String Path | Array, DP, Matrix | 29 Sept 2026 | [View Code](./Day197/) |
 | 198 | Max Nesting Depth of Two Valid Paren Strings | string, stack | 30 Sept 2026 | [View Code](./Day198/) |
+| 199 | Divide Two Integers | Math, Bit Manupulation | 1 Oct 2026 | [View Code](./Day199/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
