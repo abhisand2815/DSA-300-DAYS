@@ -214,6 +214,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 198 | Max Nesting Depth of Two Valid Paren Strings | string, stack | 30 Sept 2026 | [View Code](./Day198/) |
 | 199 | Divide Two Integers | Math, Bit Manupulation | 1 Oct 2026 | [View Code](./Day199/) |
 | 200 | Reverse Integer | Math | 2 Oct 2026 | [View Code](./Day200/) |
+| 201 | Longest Valid Parentheses | String, DP, Stack | 3 Oct 2026 | [View Code](./Day201/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
