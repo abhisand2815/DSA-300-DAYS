@@ -215,6 +215,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 199 | Divide Two Integers | Math, Bit Manupulation | 1 Oct 2026 | [View Code](./Day199/) |
 | 200 | Reverse Integer | Math | 2 Oct 2026 | [View Code](./Day200/) |
 | 201 | Longest Valid Parentheses | String, DP, Stack | 3 Oct 2026 | [View Code](./Day201/) |
+| 202 | Valid Parenthesis String | String, DP, Stack | 4 Oct 2026 | [View Code](./Day202/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
