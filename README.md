@@ -217,6 +217,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 201 | Longest Valid Parentheses | String, DP, Stack | 3 Oct 2026 | [View Code](./Day201/) |
 | 202 | Valid Parenthesis String | String, DP, Stack | 4 Oct 2026 | [View Code](./Day202/) |
 | 203 | Score of Parentheses | String, Stack | 5 Oct 2026 | [View Code](./Day203/) |
+| 204 | Minimum Add to Make Parentheses Valid | String, Stack | 6 Oct 2026 | [View Code](./Day204/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
