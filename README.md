@@ -218,6 +218,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 202 | Valid Parenthesis String | String, DP, Stack | 4 Oct 2026 | [View Code](./Day202/) |
 | 203 | Score of Parentheses | String, Stack | 5 Oct 2026 | [View Code](./Day203/) |
 | 204 | Minimum Add to Make Parentheses Valid | String, Stack | 6 Oct 2026 | [View Code](./Day204/) |
+| 205 | Remove Invalid Parentheses | String, BFS, Backtracking | 7 Oct 2026 | [View Code](./Day205/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
