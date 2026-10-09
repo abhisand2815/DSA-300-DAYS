@@ -220,6 +220,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 204 | Minimum Add to Make Parentheses Valid | String, Stack | 6 Oct 2026 | [View Code](./Day204/) |
 | 205 | Remove Invalid Parentheses | String, BFS, Backtracking | 7 Oct 2026 | [View Code](./Day205/) |
 | 206 | Remove Outermost Parentheses | String, Stack | 8 Oct 2026 | [View Code](./Day206/) |
+| 207 | Minimum Insertions to Balance a Parentheses String | String, Stack, Greedy | 9 Oct 2026 | [View Code](./Day207/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
