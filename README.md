@@ -221,6 +221,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 205 | Remove Invalid Parentheses | String, BFS, Backtracking | 7 Oct 2026 | [View Code](./Day205/) |
 | 206 | Remove Outermost Parentheses | String, Stack | 8 Oct 2026 | [View Code](./Day206/) |
 | 207 | Minimum Insertions Balance Parentheses String | String, Stack, Greedy | 9 Oct 2026 | [View Code](./Day207/) |
+| 208 | Minimum Sum of Squared Difference | Array, BS, sorting | 10 Oct 2026 | [View Code](./Day208/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
