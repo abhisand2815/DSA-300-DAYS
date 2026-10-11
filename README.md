@@ -222,6 +222,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 206 | Remove Outermost Parentheses | String, Stack | 8 Oct 2026 | [View Code](./Day206/) |
 | 207 | Minimum Insertions Balance Parentheses String | String, Stack, Greedy | 9 Oct 2026 | [View Code](./Day207/) |
 | 208 | Minimum Sum of Squared Difference | Array, BS, sorting | 10 Oct 2026 | [View Code](./Day208/) |
+| 209 | Sum of Squares of Special Elements | Array | 11 Oct 2026 | [View Code](./Day209/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
