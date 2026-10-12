@@ -223,7 +223,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 207 | Minimum Insertions Balance Parentheses String | String, Stack, Greedy | 9 Oct 2026 | [View Code](./Day207/) |
 | 208 | Minimum Sum of Squared Difference | Array, BS, sorting | 10 Oct 2026 | [View Code](./Day208/) |
 | 209 | Sum of Squares of Special Elements | Array | 11 Oct 2026 | [View Code](./Day209/) |
-| 210 | Apply Operations on Array to Max Sum of Squares | Array | 12 Oct 2026 | [View Code](./Day210/) |
+| 210 | Apply Oper on Array to Max Sum of Squares | Array | 12 Oct 2026 | [View Code](./Day210/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
