@@ -226,6 +226,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 210 | Apply Oper on Array to Max Sum of Squares | Array | 12 Oct 2026 | [View Code](./Day210/) |
 | 211 | Maximum Alternating Sum of Squares | Array, sorting | 13 Oct 2026 | [View Code](./Day211/) |
 | 212 | Maximize Sum of Squares of Digits | Math, greedy | 14 Oct 2026 | [View Code](./Day212/) |
+| 213 | Subarrays Distinct Element Sum of Squares I | Array, hash table | 15 Oct 2026 | [View Code](./Day213/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
