@@ -227,6 +227,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 211 | Maximum Alternating Sum of Squares | Array, sorting | 13 Oct 2026 | [View Code](./Day211/) |
 | 212 | Maximize Sum of Squares of Digits | Math, greedy | 14 Oct 2026 | [View Code](./Day212/) |
 | 213 | Subarrays Distinct Element Sum of Squares I | Array, hash table | 15 Oct 2026 | [View Code](./Day213/) |
+| 214 | Subarrays Distinct Element Sum of Squares II | Array, hash table | 16 Oct 2026 | [View Code](./Day214/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
