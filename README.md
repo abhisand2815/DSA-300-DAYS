@@ -229,6 +229,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 213 | Subarrays Distinct Element Sum of Squares I | Array, hash table | 15 Oct 2026 | [View Code](./Day213/) |
 | 214 | Subarrays Distinct Element Sum of Squares II | Array, hash table | 16 Oct 2026 | [View Code](./Day214/) |
 | 215 | Minimum Swaps to Sort by Digit Sum | Array, hash table, sorting | 17 Oct 2026 | [View Code](./Day215/) |
+| 216 | No of Ways to Reorder Array to Get Same BST | Array, Math, BT, Tree | 18 Oct 2026 | [View Code](./Day216/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
