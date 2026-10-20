@@ -231,6 +231,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 215 | Minimum Swaps to Sort by Digit Sum | Array, hash table, sorting | 17 Oct 2026 | [View Code](./Day215/) |
 | 216 | No of Ways to Reorder Array to Get Same BST | Array, Math, BT, Tree | 18 Oct 2026 | [View Code](./Day216/) |
 | 217 | Find Target Indices After Sorting Array | Array, binary search | 19 Oct 2026 | [View Code](./Day217/) |
+| 218 | Sum of Sortable Integers | Array, Math, sorting | 20 Oct 2026 | [View Code](./Day218/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
