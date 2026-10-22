@@ -233,6 +233,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 217 | Find Target Indices After Sorting Array | Array, binary search | 19 Oct 2026 | [View Code](./Day217/) |
 | 218 | Sum of Sortable Integers | Array, Math, sorting | 20 Oct 2026 | [View Code](./Day218/) |
 | 219 | Minimum Operations to Sort a String | String | 21 Oct 2026 | [View Code](./Day219/) |
+| 220 | Minimum Operations to Sort a Permutation | array | 22 Oct 2026 | [View Code](./Day220/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
