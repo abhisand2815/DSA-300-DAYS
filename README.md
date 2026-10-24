@@ -234,6 +234,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 218 | Sum of Sortable Integers | Array, Math, sorting | 20 Oct 2026 | [View Code](./Day218/) |
 | 219 | Minimum Operations to Sort a String | String | 21 Oct 2026 | [View Code](./Day219/) |
 | 220 | Minimum Operations to Sort a Permutation | array | 22 Oct 2026 | [View Code](./Day220/) |
+| 221 | Maximum K to Sort a Permutation | array, sorting | 23 Oct 2026 | [View Code](./Day221/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
