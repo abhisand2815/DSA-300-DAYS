@@ -235,6 +235,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 219 | Minimum Operations to Sort a String | String | 21 Oct 2026 | [View Code](./Day219/) |
 | 220 | Minimum Operations to Sort a Permutation | array | 22 Oct 2026 | [View Code](./Day220/) |
 | 221 | Maximum K to Sort a Permutation | array, sorting | 23 Oct 2026 | [View Code](./Day221/) |
+| 222 | Count Days Spent Together | string, math | 24 Oct 2026 | [View Code](./Day222/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
