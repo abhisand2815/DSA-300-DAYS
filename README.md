@@ -236,6 +236,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 220 | Minimum Operations to Sort a Permutation | array | 22 Oct 2026 | [View Code](./Day220/) |
 | 221 | Maximum K to Sort a Permutation | array, sorting | 23 Oct 2026 | [View Code](./Day221/) |
 | 222 | Count Days Spent Together | string, math | 24 Oct 2026 | [View Code](./Day222/) |
+| 223 | Number of Closed Islands | array, math | 25 Oct 2026 | [View Code](./Day223/) |
+| 224 | Create Grid With Exactly One Path | array, math | 26 Oct 2026 | [View Code](./Day224/) |
+| 225 | Minimum XOR Path in a Grid | array, DP, Matrix | 27 Oct 2026 | [View Code](./Day225/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
