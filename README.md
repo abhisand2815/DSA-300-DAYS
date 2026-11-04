@@ -243,6 +243,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 227 | Palindromic Path Queries in a Tree | array, sorting, bit | 29 Oct 2026 | [View Code](./Day227/) |
 | 228 | Maximum Average Subarray I | array | 30 Oct 2026 | [View Code](./Day228/) |
 | 229 | Asteroid Collision | array, stack | 31 Oct 2026 | [View Code](./Day229/) |
+| 230 | Best Time to Buy and Sell Stock with Transaction Fee | array, DP | 1 Nov 2026 | [View Code](./Day230/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
