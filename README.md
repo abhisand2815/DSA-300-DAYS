@@ -242,6 +242,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 226 | Min Op to Make Elements With K Subarray Eq | array, hash table, math, DP | 28 Oct 2026 | [View Code](./Day226/) |
 | 227 | Palindromic Path Queries in a Tree | array, sorting, bit | 29 Oct 2026 | [View Code](./Day227/) |
 | 228 | Maximum Average Subarray I | array | 30 Oct 2026 | [View Code](./Day228/) |
+| 229 | Asteroid Collision | array, stack | 31 Oct 2026 | [View Code](./Day229/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
