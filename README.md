@@ -244,6 +244,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 228 | Maximum Average Subarray I | array | 30 Oct 2026 | [View Code](./Day228/) |
 | 229 | Asteroid Collision | array, stack | 31 Oct 2026 | [View Code](./Day229/) |
 | 230 | Best Time Buy & Sell Stock with Transaction Fee | array, DP | 1 Nov 2026 | [View Code](./Day230/) |
+| 230 | Max Nesting Depth of 2 Valid Parentheses Strings | String, DP | 2 Nov 2026 | [View Code](./Day231/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
