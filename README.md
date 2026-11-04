@@ -239,7 +239,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 223 | Number of Closed Islands | array, math | 25 Oct 2026 | [View Code](./Day223/) |
 | 224 | Create Grid With Exactly One Path | array, math | 26 Oct 2026 | [View Code](./Day224/) |
 | 225 | Minimum XOR Path in a Grid | array, DP, Matrix | 27 Oct 2026 | [View Code](./Day225/) |
-| 226 | Min Op to Make Elements With K Subarrays Equal | array, hash table, math, DP | 28 Oct 2026 | [View Code](./Day226/) |
+| 226 | Min Op to Make Elements With K Subarray Eq | array, hash table, math, DP | 28 Oct 2026 | [View Code](./Day226/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
