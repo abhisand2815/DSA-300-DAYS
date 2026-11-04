@@ -241,6 +241,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 225 | Minimum XOR Path in a Grid | array, DP, Matrix | 27 Oct 2026 | [View Code](./Day225/) |
 | 226 | Min Op to Make Elements With K Subarray Eq | array, hash table, math, DP | 28 Oct 2026 | [View Code](./Day226/) |
 | 227 | Palindromic Path Queries in a Tree | array, sorting, bit | 29 Oct 2026 | [View Code](./Day227/) |
+| 228 | Maximum Average Subarray I | array | 30 Oct 2026 | [View Code](./Day228/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
