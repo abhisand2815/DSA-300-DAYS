@@ -254,8 +254,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 238 | Swap Nodes in Pairs| Linked list, recursion | 9 Nov 2026 | [View Code](./Day238/) |
 | 239 | Next Permutation | array, two pointers | 10 Nov 2026 | [View Code](./Day239/) |
 | 240 | Sudoku Solver | array, hash table, backtracking | 11 Nov 2026 | [View Code](./Day240/) |
-| 241 | inary Tree Level Order Traversal II | array, sorting | 12 Nov 2026 | [View Code](./Day241/) |
-| 242 | Convert Sorted List to Binary Search Tree | array, sorting | 13 Nov 2026 | [View Code](./Day242/) |
+| 241 | Binary Tree Level Order Traversal II | Binary Tree | 12 Nov 2026 | [View Code](./Day241/) |
+| 242 | Convert Sorted List to Binary Search Tree | BT, Linked list, sorting| 13 Nov 2026 | [View Code](./Day242/) |
 
 
 
