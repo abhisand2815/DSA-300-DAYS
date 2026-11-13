@@ -248,6 +248,16 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 232 | Search Suggestions System | String, array, BS | 3 Nov 2026 | [View Code](./Day232/) |
 | 233 | N-th Tribonacci Number | Math, DP | 4 Nov 2026 | [View Code](./Day233/) |
 | 234 | Count Non-Decreasing Subarrays K Operations | Array | 5 Nov 2026 | [View Code](./Day234/) |
+| 235 | String to Integer (atoi) | String | 6 Nov 2026 | [View Code](./Day235/) |
+| 236 | Regular Expression Matching | String, DP | 7 Nov 2026 | [View Code](./Day236/) |
+| 237 | 3Sum Closest  | array, sorting | 8 Nov 2026 | [View Code](./Day237/) |
+| 238 | Swap Nodes in Pairs| Linked list, recursion | 9 Nov 2026 | [View Code](./Day238/) |
+| 239 | Next Permutation | array, two pointers | 10 Nov 2026 | [View Code](./Day239/) |
+| 240 | Sudoku Solver | array, hash table, backtracking | 11 Nov 2026 | [View Code](./Day240/) |
+| 241 | inary Tree Level Order Traversal II | array, sorting | 12 Nov 2026 | [View Code](./Day241/) |
+| 242 | Convert Sorted List to Binary Search Tree | array, sorting | 13 Nov 2026 | [View Code](./Day242/) |
+
+
 
 ## Daily Goal
 - Solve 1–2 problems  
