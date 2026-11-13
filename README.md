@@ -247,6 +247,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 231 | Max Nesting Depth of 2 Valid Parentheses | String, DP | 2 Nov 2026 | [View Code](./Day231/) |
 | 232 | Search Suggestions System | String, array, BS | 3 Nov 2026 | [View Code](./Day232/) |
 | 233 | N-th Tribonacci Number | Math, DP | 4 Nov 2026 | [View Code](./Day233/) |
+| 234 | Count Non-Decreasing Subarrays After K Operations | Array | 5 Nov 2026 | [View Code](./Day234/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
