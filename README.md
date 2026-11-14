@@ -256,8 +256,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 240 | Sudoku Solver | array, hash table, backtracking | 11 Nov 2026 | [View Code](./Day240/) |
 | 241 | Binary Tree Level Order Traversal II | Binary Tree | 12 Nov 2026 | [View Code](./Day241/) |
 | 242 | Convert Sorted List to Binary Search Tree | BT, Linked list, sorting| 13 Nov 2026 | [View Code](./Day242/) |
-
-
+| 243 | Minimum Positive Sum Subarray | Array, sliding window | 14 Nov 2026 | [View Code](./Day243/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
