@@ -257,6 +257,13 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 241 | Binary Tree Level Order Traversal II | Binary Tree | 12 Nov 2026 | [View Code](./Day241/) |
 | 242 | Convert Sorted List to Binary Search Tree | BT, Linked list, sorting| 13 Nov 2026 | [View Code](./Day242/) |
 | 243 | Minimum Positive Sum Subarray | Array, sliding window | 14 Nov 2026 | [View Code](./Day243/) |
+| 244 | Find Subtree Sizes After Changes | Tree | 15 Nov 2026 | [View Code](./Day244/) |
+| 245 | Count and Say | String | 16 Nov 2026 | [View Code](./Day245/) |
+| 246 | Combination Sum II | Array, backtracking | 17 Nov 2026 | [View Code](./Day246/) |
+| 247 | First Missing Positive | Array, hash table | 18 Nov 2026 | [View Code](./Day247/) |
+| 248 | Wildcard Matching | string, DP, greedy | 19 Nov 2026 | [View Code](./Day248/) |
+| 249 | Recover Binary Search Tree | Binary tree | 20 Nov 2026 | [View Code](./Day249/) |
+| 250 | Pascal's Triangle | Array, DP | 21 Nov 2026 | [View Code](./Day250/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
