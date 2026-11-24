@@ -266,6 +266,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 250 | Pascal's Triangle | Array, DP | 21 Nov 2026 | [View Code](./Day250/) |
 | 251 | Check if All A's Appears Before All B's | String | 22 Nov 2026 | [View Code](./Day251/) |
 | 252 | Product of the Last K Numbers | Array, Math, design | 23 Nov 2026 | [View Code](./Day252/) |
+| 253 | Maximum Subarray With Equal Products | Array, Math | 24 Nov 2026 | [View Code](./Day253/) |
 
 ## Daily Goal
 - Solve 1–2 problems  
